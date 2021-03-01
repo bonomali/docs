@@ -36,7 +36,7 @@
     "lodash-webpack-plugin": "^0.11.4",
     "marked": "^0.3.19",
     "mdast-util-to-string": "^1.0.4",
-    "prismjs": "^1.14.0",
+    "prismjs": "^1.23.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-helmet": "^5.2.0",
